@@ -1,2 +1,5 @@
-__Preview/**
-History/**
+##### Altium
+History
+__Previews
+*.PrjPCBStructure
+*.PrjPcbStructure
